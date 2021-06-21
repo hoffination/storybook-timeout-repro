@@ -1,6 +1,8 @@
 # StorybookRepro
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14 then updated to 12.0.4.
+
+Running `yarn build-storybook` results in a unending process.
 
 ## Development server
 
